@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>보드</title>
 </head>
 <body>
-	<h1>홈입니다.</h1>
-	한글도 되네요<br>
+	<h1>보드 : ${name }</h1>
+
 </body>
 </html>

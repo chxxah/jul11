@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>홈입니다.</h1>
-	한글도 되네요<br>
+
 </body>
 </html>

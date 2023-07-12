@@ -46,6 +46,7 @@ public class HomeController {
 	
 	// 박스 안에 값들을 담아서 보낸다고 생각하면 됨
 	// modelandView라는 박스
+	
 	@RequestMapping("/main")
 	public ModelAndView main() {
 		ModelAndView mv = new ModelAndView("main"); //main은 jsp 파일명
